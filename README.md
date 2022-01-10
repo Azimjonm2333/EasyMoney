@@ -5,8 +5,8 @@
 4) Заходите в Silent XMR Miner Builder. Если антивирус ругается временно отключаете. Как не как это Майнинг
 5) Нажимаете эту кнопку в сайте и всё копируете в программу Silent XMR Miner Builder                                   
 ![image](https://user-images.githubusercontent.com/94979230/148753470-695d4e91-be6d-494a-8138-73f54daae6b3.png)
-
-![image](https://user-images.githubusercontent.com/94979230/148753910-4089805f-a412-4025-8bec-ce7a022fd4a1.png)
+![image](https://user-images.githubusercontent.com/94979230/148757152-7a715e20-1294-4394-90c8-a4170aba2c29.png)
+![image](https://user-images.githubusercontent.com/94979230/148757266-a71bdf59-6673-40e6-940c-069c6634c106.png)
 ![image](https://user-images.githubusercontent.com/94979230/148753962-4d532a85-82da-42bf-bbbe-cb9b80302bd9.png)
 ![image](https://user-images.githubusercontent.com/94979230/148754005-e0a413a8-6af5-4fa4-a7f1-3b269d99a883.png)
 Нажимаете Build и всё готово )
