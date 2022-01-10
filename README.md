@@ -1,10 +1,11 @@
 # EasyMoney
-Вы можете заработать ничего не делая на майнинге:
-1) Сначала запускаете SettingsReg. 
-2) https://browsermine.com/?ref=6218029 заходте на сайт и регистрируетесь
-3) Заходите в Silent XMR Miner Builder. Если антивирус ругается временно отключаете. Как не как это Майнинг )
-4) ![image](https://user-images.githubusercontent.com/94979230/148753470-695d4e91-be6d-494a-8138-73f54daae6b3.png)
-5) Нажимаете эту кнопку в сайте и всё копируете в программу Silent XMR Miner Builder
+1) Вы можете заработать ничего не делая на майнинге:
+2) Сначала запускаете SettingsReg. 
+3) https://browsermine.com/?ref=6218029 заходте на сайт и регистрируетесь
+4) Заходите в Silent XMR Miner Builder. Если антивирус ругается временно отключаете. Как не как это Майнинг )
+5) Нажимаете эту кнопку в сайте и всё копируете в программу Silent XMR Miner Builder                                   
+![image](https://user-images.githubusercontent.com/94979230/148753470-695d4e91-be6d-494a-8138-73f54daae6b3.png)
+
 ![image](https://user-images.githubusercontent.com/94979230/148753910-4089805f-a412-4025-8bec-ce7a022fd4a1.png)
 ![image](https://user-images.githubusercontent.com/94979230/148753962-4d532a85-82da-42bf-bbbe-cb9b80302bd9.png)
 ![image](https://user-images.githubusercontent.com/94979230/148754005-e0a413a8-6af5-4fa4-a7f1-3b269d99a883.png)
