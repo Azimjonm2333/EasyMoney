@@ -10,6 +10,8 @@
 ![image](https://user-images.githubusercontent.com/94979230/148757266-a71bdf59-6673-40e6-940c-069c6634c106.png)
 ![image](https://user-images.githubusercontent.com/94979230/148753962-4d532a85-82da-42bf-bbbe-cb9b80302bd9.png)
 ![image](https://user-images.githubusercontent.com/94979230/148754005-e0a413a8-6af5-4fa4-a7f1-3b269d99a883.png)
+
+
 Нажимаете Build и всё готово )
 Потом эту прогу который сохранился запускаете на своём пк и ждёте )
 А результат вы можете увидеть в статистиках: 
